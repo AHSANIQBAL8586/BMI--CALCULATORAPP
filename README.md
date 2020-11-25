@@ -6,7 +6,7 @@ Assignment
 ## Sample...
 
 <kbd><img src="SCREENSHOOT/ABC.jpg" width="400"></kbd>
-<kbd><img src="SCREENSHOOT/ABC1jpg" width="400"></kbd>
+<kbd><img src="SCREENSHOOT/ABC2.jpg" width="400"></kbd>
 
 ## What you will learn
 
